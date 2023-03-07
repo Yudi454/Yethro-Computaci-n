@@ -1,0 +1,16 @@
+.navbar{
+    background: #fbab1c;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+.titulologo{
+    font-size: 4vh;
+}
+.nav-link{
+    margin-left: 3vh;
+    margin-right: 3vh;
+    font-size: 3vh;
+}
+.dropdown-menu{
+    background: #fbab1c !important;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3) !important;
+}
